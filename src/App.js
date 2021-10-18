@@ -1,9 +1,7 @@
 import panier1 from "../panier1.js";
 import panier2 from "../panier2.js";
 /**
- * IDENTIFICATION DE L'ÉQUIPE
- * ÉLÈVE :
- * ÉLÈVE :
+ * IDENTIFICATION DE L'ÉLÈVE
  * ÉLÈVE :
  */
 export default class App {
